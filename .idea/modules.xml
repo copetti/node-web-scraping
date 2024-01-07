@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../laragon/www/droprecover/.idea/droprecover.iml" filepath="$PROJECT_DIR$/../../../../laragon/www/droprecover/.idea/droprecover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../laragon/www/ongoin-web/.idea/ongoin-web.iml" filepath="$PROJECT_DIR$/../../../../laragon/www/ongoin-web/.idea/ongoin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web-scraping.iml" filepath="$PROJECT_DIR$/.idea/web-scraping.iml" />
+    </modules>
+  </component>
+</project>
